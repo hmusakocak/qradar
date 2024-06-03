@@ -23,5 +23,5 @@
     - Text file to Reference set
     - List reference set of any QRadar appliance  
 > [!WARNING]
-      Due to RESTAPI and payload size, data loss of 7-13 links may occur.
+      <b>Due to RESTAPI and payload size, data loss of 7-13 links may occur.</b>
 
