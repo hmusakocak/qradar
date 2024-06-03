@@ -3,9 +3,9 @@
 - <b>This repository includes;</b>
   -  REST API processes for IBM QRadar,
   -  Important documentations for IBM QRadar,
-  -  Some trick should be used
+  -  Some trick should be used.
 <br>
   
 - <b>Repository is seperated two parts.</b>
-  - Part I : coded with C# programming language and has GUI for easy access and usage.
+  - Part I : coded with C# programming language.
   - Part II : coded with bash and can be used in QRadar CLI interface.
