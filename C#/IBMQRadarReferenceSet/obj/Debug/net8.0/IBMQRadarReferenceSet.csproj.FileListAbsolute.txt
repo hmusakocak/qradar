@@ -1,0 +1,14 @@
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\bin\Debug\net8.0\IBMQRadarReferenceSet.exe
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\bin\Debug\net8.0\IBMQRadarReferenceSet.deps.json
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\bin\Debug\net8.0\IBMQRadarReferenceSet.runtimeconfig.json
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\bin\Debug\net8.0\IBMQRadarReferenceSet.dll
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\bin\Debug\net8.0\IBMQRadarReferenceSet.pdb
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.AssemblyInfoInputs.cache
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.AssemblyInfo.cs
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.csproj.CoreCompileInputs.cache
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.dll
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\refint\IBMQRadarReferenceSet.dll
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.pdb
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\IBMQRadarReferenceSet.genruntimeconfig.cache
+C:\Users\HMK\source\repos\IBMQRadarReferenceSet\obj\Debug\net8.0\ref\IBMQRadarReferenceSet.dll
