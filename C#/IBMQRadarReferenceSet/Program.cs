@@ -116,7 +116,6 @@ static async System.Threading.Tasks.Task UploadURLsToQRadar()
         Console.WriteLine(excep.Message.ToString());
     }
 
-    // QRadar'a yükleme işlemleri burada yapılır
     Console.WriteLine("URL'ler başarıyla QRadar'a yüklendi!");
 }
 
@@ -162,7 +161,7 @@ static async System.Threading.Tasks.Task ListReferenceDataCollections()
 
                         data += ($"Name: {name}, ID: {id}, Namespace: {namespaceValue}{Environment.NewLine}");
                     }
-                    // QRadar'daki referans veri koleksiyonlarını listeleme işlemleri burada yapılır
+                    
                     Console.WriteLine(data);
                     Console.WriteLine("Referans veri koleksiyonları başarıyla listelendi!");
                 }
