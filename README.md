@@ -10,13 +10,12 @@
   - Part I : coded with C# programming language.
   - Part II : coded with bash and can be used in QRadar CLI interface.
  
-<h2><div align="center">C# Codes for QRadar(RESTAPI)</div></h2>
+<h3><ins>C#Codes for QRadar(RESTAPI)</ins></h3>
 
-- <ins><h3>Reference Set Processes</h3></ins>
+- <ins><b>Reference Set Processes</b></ins>
     - Download USOM blacklisted url list
     - Text file to Reference set
-    - List reference set of any QRadar appliance
-   
+    - List reference set of any QRadar appliance  
 > [!WARNING]
-   > Due to RESTAPI and payload size, data loss of 7-13 links may occur.
+      Due to RESTAPI and payload size, data loss of 7-13 links may occur.
 
